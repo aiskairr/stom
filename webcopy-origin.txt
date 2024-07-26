@@ -1,0 +1,204 @@
+Uri: https://p31.gdh.kz/
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\index.htm
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/about.html
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\about.html
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/blog.html
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\blog.html
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/blog/hudozhestvennaya-restavraciya-zubov.html
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\blog\hudozhestvennaya-restavraciya-zubov.html
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/blog/osnovnye-napravleniya-v-stomatologii.html
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\blog\osnovnye-napravleniya-v-stomatologii.html
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/blog/vse-o-protezirovanii-zubov.html
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\blog\vse-o-protezirovanii-zubov.html
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/blog/vse-ob-implantacii-zubov.html
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\blog\vse-ob-implantacii-zubov.html
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/contacts.html
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\contacts.html
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/contacts.js
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\contacts.js
+Content Type: application/javascript
+
+Uri: https://p31.gdh.kz/doctors.html
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\doctors.html
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/doctors/doctor1.html
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\doctors\doctor1.html
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/doctors/doctor2.html
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\doctors\doctor2.html
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/index.htm
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\index-1.htm
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/modules/system/assets/css/framework.extras-min.css
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\modules\system\assets\css\framework.extras-min.css
+Content Type: text/css
+
+Uri: https://p31.gdh.kz/modules/system/assets/js/framework.combined-min.js
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\modules\system\assets\js\framework.combined-min.js
+Content Type: application/javascript
+
+Uri: https://p31.gdh.kz/price.html
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\price.html
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/services.html
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\services.html
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/services/esteticheskaya-stomatologiya.html
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\services\esteticheskaya-stomatologiya.html
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/services/gigiena-i-profilaktika.html
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\services\gigiena-i-profilaktika.html
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/services/hirurgicheskaya-stomatologiya.html
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\services\hirurgicheskaya-stomatologiya.html
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/services/implantaciya-zubov.html
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\services\implantaciya-zubov.html
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/services/ortopedicheskaya-stomatologiya.html
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\services\ortopedicheskaya-stomatologiya.html
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/services/terapevticheskaya-stomatologiya.html
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\services\terapevticheskaya-stomatologiya.html
+Content Type: text/html
+
+Uri: https://p31.gdh.kz/https://cdn-icons-png.flaticon.com/512/1077/1077114.png
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\storage\app\media\kuralbaeva-removebg-preview.png
+Content Type: image/png
+
+Uri: https://p31.gdh.kz/storage/app/media/kuralbaeva.jpg
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\storage\app\media\kuralbaeva.jpg
+Content Type: image/jpeg
+
+Uri: https://p31.gdh.kz/storage/app/media/titobaev.jpg
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\storage\app\media\titobaev.jpg
+Content Type: image/jpeg
+
+Uri: https://p31.gdh.kz/storage/app/media/titobaev.png
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\storage\app\media\titobaev.png
+Content Type: image/png
+
+Uri: https://p31.gdh.kz/storage/app/uploads/public/4d7/271/7c3/thumb__500_325_0_0_auto.jpg
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\storage\app\uploads\public\4d7\271\7c3\thumb__500_325_0_0_auto.jpg
+Content Type: image/jpeg
+
+Uri: https://p31.gdh.kz/storage/app/uploads/public/5e9/620/4be/thumb_97_350_0_0_0_auto.jpeg
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\storage\app\uploads\public\5e9\620\4be\thumb_97_350_0_0_0_auto.jpeg
+Content Type: image/jpeg
+
+Uri: https://p31.gdh.kz/storage/app/uploads/public/5e9/620/4be/thumb_97_700_0_0_0_auto.jpeg
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\storage\app\uploads\public\5e9\620\4be\thumb_97_700_0_0_0_auto.jpeg
+Content Type: image/jpeg
+
+Uri: https://p31.gdh.kz/storage/app/uploads/public/5e9/620/628/thumb_98_350_0_0_0_auto.jpeg
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\storage\app\uploads\public\5e9\620\628\thumb_98_350_0_0_0_auto.jpeg
+Content Type: image/jpeg
+
+Uri: https://p31.gdh.kz/storage/app/uploads/public/5e9/620/628/thumb_98_700_0_0_0_auto.jpeg
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\storage\app\uploads\public\5e9\620\628\thumb_98_700_0_0_0_auto.jpeg
+Content Type: image/jpeg
+
+Uri: https://p31.gdh.kz/storage/app/uploads/public/5e9/620/8e0/thumb_99_350_0_0_0_auto.jpg
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\storage\app\uploads\public\5e9\620\8e0\thumb_99_350_0_0_0_auto.jpg
+Content Type: image/jpeg
+
+Uri: https://p31.gdh.kz/storage/app/uploads/public/5e9/620/8e0/thumb_99_700_0_0_0_auto.jpg
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\storage\app\uploads\public\5e9\620\8e0\thumb_99_700_0_0_0_auto.jpg
+Content Type: image/jpeg
+
+Uri: https://p31.gdh.kz/storage/app/uploads/public/5e9/620/f15/thumb_100_350_0_0_0_auto.jpg
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\storage\app\uploads\public\5e9\620\f15\thumb_100_350_0_0_0_auto.jpg
+Content Type: image/jpeg
+
+Uri: https://p31.gdh.kz/storage/app/uploads/public/5e9/620/f15/thumb_100_700_0_0_0_auto.jpg
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\storage\app\uploads\public\5e9\620\f15\thumb_100_700_0_0_0_auto.jpg
+Content Type: image/jpeg
+
+Uri: https://p31.gdh.kz/themes/dentlux/assets/css/main.min.css
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\themes\dentlux\assets\css\main.min.css
+Content Type: text/css
+
+Uri: https://p31.gdh.kz/themes/dentlux/assets/fonts/Lato/Lato-Bold.ttf
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\themes\dentlux\assets\fonts\Lato\Lato-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://p31.gdh.kz/themes/dentlux/assets/fonts/Lato/Lato-Heavy.ttf
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\themes\dentlux\assets\fonts\Lato\Lato-Heavy.ttf
+Content Type: font/ttf
+
+Uri: https://p31.gdh.kz/themes/dentlux/assets/fonts/Lato/Lato-Medium.ttf
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\themes\dentlux\assets\fonts\Lato\Lato-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://p31.gdh.kz/themes/dentlux/assets/fonts/Lato/Lato-Regular.ttf
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\themes\dentlux\assets\fonts\Lato\Lato-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://p31.gdh.kz/themes/dentlux/assets/fonts/Lato/Lato-Semibold.ttf
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\themes\dentlux\assets\fonts\Lato\Lato-Semibold.ttf
+Content Type: font/ttf
+
+Uri: https://p31.gdh.kz/themes/dentlux/assets/images/Background.svg
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\themes\dentlux\assets\images\Background.svg
+Content Type: image/svg+xml
+
+Uri: https://p31.gdh.kz/themes/dentlux/assets/images/Background_990.svg
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\themes\dentlux\assets\images\Background_990.svg
+Content Type: image/svg+xml
+
+Uri: https://p31.gdh.kz/themes/dentlux/assets/images/crown-blue.svg
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\themes\dentlux\assets\images\crown-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://p31.gdh.kz/themes/dentlux/assets/images/dots2.svg
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\themes\dentlux\assets\images\dots2.svg
+Content Type: image/svg+xml
+
+Uri: https://p31.gdh.kz/themes/dentlux/assets/js/theme.min.js
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\themes\dentlux\assets\js\theme.min.js
+Content Type: application/javascript
+
+Uri: https://p31.gdh.kz/themes/dentlux/assets/svg-sprite/calendar.png
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\themes\dentlux\assets\svg-sprite\calendar.png
+Content Type: image/png
+
+Uri: https://p31.gdh.kz/themes/dentlux/assets/svg-sprite/clock.png
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\themes\dentlux\assets\svg-sprite\clock.png
+Content Type: image/png
+
+Uri: https://p31.gdh.kz/themes/dentlux/assets/svg-sprite/location.png
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\themes\dentlux\assets\svg-sprite\location.png
+Content Type: image/png
+
+Uri: https://p31.gdh.kz/themes/dentlux/assets/svg-sprite/phone.png
+File Name: F:\Downloaded Web Sites\p31.gdh.kz\themes\dentlux\assets\svg-sprite\phone.png
+Content Type: image/png
+
